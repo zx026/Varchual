@@ -12,7 +12,7 @@ from aiogram import Bot, Dispatcher, types, executor
 
 # ========== CONFIG ==========
 BOT_TOKEN = "8478888148:AAFR-awgY9AL4fMiFg9sASTo9HNv-827TaM"
-API_KEY_5SIM = "YOUR_5SIM_API_KEY"
+API_KEY_5SIM = "a4ac091e88004e00ba43894f854a789d"
 ADMIN_ID = 7459732827  # replace with your Telegram ID (int)
 UPI_ID = "yourbharatpeid@upi"
 BUSINESS_NAME = "Akotp"
