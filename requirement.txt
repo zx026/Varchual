@@ -1,0 +1,5 @@
+aiogram==3.0.0b6
+requests
+qrcode
+Pillow
+python-dotenv
