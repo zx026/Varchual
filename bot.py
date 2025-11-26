@@ -11,9 +11,9 @@ from datetime import datetime
 from aiogram import Bot, Dispatcher, types, executor
 
 # ========== CONFIG ==========
-BOT_TOKEN = "8478888148:AAFR-awgY9AL4fMiFg9sASTo9HNv-827TaM"
+BOT_TOKEN = "8330533753:AAG_2Fn5deWSVIx1euC-LshE4JNmSA9Jtgs"
 API_KEY_5SIM = "a4ac091e88004e00ba43894f854a789d"
-ADMIN_ID = 7459732827  # replace with your Telegram ID (int)
+ADMIN_ID = 7875650103  # replace with your Telegram ID (int)
 UPI_ID = "yourbharatpeid@upi"
 BUSINESS_NAME = "Akotp"
 BASE_5SIM = "https://5sim.net/v1/"
